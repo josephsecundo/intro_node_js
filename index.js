@@ -26,5 +26,5 @@ if (trabalha === true){
 }
 
 
-//indica se é uma array ou não.
+//indica se é uma array ou não
 console.log ((Array.isArray(trabalha)) ? 'Array' : 'Não é Array');

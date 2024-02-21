@@ -11,11 +11,17 @@
     "type": "git",
     "url": "git+https://github.com/josephsecundo/intro_node_js.git"
   },
-  "keywords": ["NodeJS", "Introdução"],
+  "keywords": [
+    "NodeJS",
+    "Introdução"
+  ],
   "author": "José Secundo",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/josephsecundo/intro_node_js/issues"
   },
-  "homepage": "https://github.com/josephsecundo/intro_node_js#readme"
+  "homepage": "https://github.com/josephsecundo/intro_node_js#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
